@@ -6,9 +6,8 @@ Once the webpage is loaded the user can enter their search criteria, either one 
 
 ## RESULTS
 The following image shows how the website looks when its first loaded.
-<p>
  <img width=500 src="static/images/img1.png">
-</p>
+
 
 
 
