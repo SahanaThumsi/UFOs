@@ -12,15 +12,15 @@ The following image shows how the website looks when its first loaded.
 
 
 On the left side under the filter search label we can filter for example a date, the table shows the data specific to the searched filter in the Image below
-![img2.PNG](./images/img2.PNG)
+![img2.PNG](static/images/img2.PNG)
 
 
 
 Here is an example of just using one filter search like date!(rest of the input box entries are default )
-![img3.PNG](./images/img3.PNG)
+![img3.PNG](static/images/img3.PNG)
 
 The following image also shows the table on the right which is filtered when we enter multiple search criteria’s.
-![img4.PNG](./images/img4.PNG)
+![img4.PNG](static/images/img4.PNG)
 
 
 ## SUMMARY
